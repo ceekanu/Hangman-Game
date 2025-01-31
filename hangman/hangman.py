@@ -53,7 +53,7 @@ def play_game():
 
     playing=True
     #Track the guessed letter
-    letterGuessed= ''
+    letterGuessed= []
     #Number of lives
     lives = len(word)+3
     #The flag condition for winning
