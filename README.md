@@ -9,7 +9,7 @@ Playable in the terminal.
 
 # Installation
 Clone this repository to your local machine:
-git clone https://github.com/your-username/hangman-game.git
+git clone https://github.com/ceekanu/hangman-game.git
 Navigate into the project directory:
 cd hangman-game
 
